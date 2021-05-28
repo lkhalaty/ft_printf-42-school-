@@ -32,7 +32,7 @@ typedef struct	s_table
 
 # define s_lc	"0123456789abcdef"
 # define s_uc	"0123456789ABCDEF"
-# define s_c		"0123456789"
+# define s_c	"0123456789"
 
 void			ft_fill_blank(t_table *t);
 void			ft_fill_count(t_table *t);
